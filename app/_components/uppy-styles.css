@@ -1,0 +1,5 @@
+
+
+.uppy-Dashboard-dropFilesHereHint, .uppy-size--md .uppy-Dashboard-Item-action--remove, .uppy-DashboardContent-bar, .uppy-StatusBar-actions, .uppy-StatusBar, .uppy-Informer{
+  z-index: 20!important;
+}
